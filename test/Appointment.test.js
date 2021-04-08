@@ -1,3 +1,6 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 describe('Appointment', () => {
     it('renders the customer first name', () => {
         const customer = { firstName: 'Ashley' };
