@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Dragontalker/tdd-react-appointments-system#readme",
   "dependencies": {
-    "react": "^17.0.2"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
