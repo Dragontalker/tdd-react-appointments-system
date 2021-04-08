@@ -4,6 +4,9 @@ describe('Appointment', () => {
         const component = <Apppointment customer={customer} />;
         const container = document.createElemenmt('div');
         document.body.appendChild(container);
+
+        ReactDOM.render(component, container);
+
         expect(document.body.textContent).toMatch('Ashley');
     });
 });
