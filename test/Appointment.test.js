@@ -3,6 +3,7 @@ describe('Appointment', () => {
         const customer = { firstName: 'Ashley' };
         const component = <Apppointment customer={customer} />;
         const container = document.createElemenmt('div');
+        document.body.appendChild(container);
         expect(document.body.textContent).toMatch('Ashley');
     });
 });
