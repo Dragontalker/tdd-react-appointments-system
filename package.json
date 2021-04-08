@@ -1,0 +1,20 @@
+{
+  "name": "tdd-react-appointments-system",
+  "version": "1.0.0",
+  "description": "An appointments system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragontalker/tdd-react-appointments-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dragontalker/tdd-react-appointments-system/issues"
+  },
+  "homepage": "https://github.com/Dragontalker/tdd-react-appointments-system#readme"
+}
