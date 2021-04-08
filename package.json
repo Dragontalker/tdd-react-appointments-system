@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Dragontalker/tdd-react-appointments-system/issues"
   },
-  "homepage": "https://github.com/Dragontalker/tdd-react-appointments-system#readme"
+  "homepage": "https://github.com/Dragontalker/tdd-react-appointments-system#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
