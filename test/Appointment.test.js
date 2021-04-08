@@ -5,8 +5,8 @@ import { Appointment } from '../src/Appointment';
 describe('Appointment', () => {
     it('renders the customer first name', () => {
         const customer = { firstName: 'Ashley' };
-        const component = <Apppointment customer={customer} />;
-        const container = document.createElemenmt('div');
+        const component = <Appointment customer={customer} />;
+        const container = document.createElement('div');
         document.body.appendChild(container);
 
         ReactDOM.render(component, container);
